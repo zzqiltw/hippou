@@ -3,8 +3,8 @@
 This is the summary of my book.
 
 * [I. Spring Framework 总览](I. Overview of Hippou Library/README.md)
-	* [开始](I. Overview of Hippou Library/1. Getting Started with Spring.md)
-	* [介绍 Spring Framework](I. Overview of Hippou Library/2. Introduction to the Spring Framework.md)
+	* [开始](I. Overview of Hippou Library/1. Getting Started with Hippou Library.md)
+	* [介绍 Spring Framework](I. Overview of Hippou Library/2. Introduction to the Hippou Library.md)
 		* [依赖注入和控制反转](I. Overview of Hippou Library/2.1. Dependency Injection and Inversion of Control.md)
 		* [模块](I. Overview of Hippou Library/2.2. Modules.md)
 		* [使用场景](I. Overview of Hippou Library/2.3. Usage scenarios.md)
