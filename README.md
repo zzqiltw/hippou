@@ -3,10 +3,14 @@
 
 ![logo](logo.png)
 
+Let's [READ](SUMMARY.md)!
+
 Hippou Library 官方地址：[河马图书馆] (http://hippou.cc)
 
-Let's [READ](SUMMARY.md)!
+其中Hippou取hippo作为词根，其中u包含union的意思，提倡社区文化、分享精神。
  
+该文档为“河马图书”（Hippou Library）项目开发文档，主要由MRD和PRD构成，其后也会有关于产品未来发展以及关于运营方案的思考。
+
 该项目作为一个协同项目，参与者大多是利用业余时间进行开发协作，从最初的想法到现在的项目正式启动，通过自我驱动并全力以赴的推动项目进展，产品本身的设计也经历了多次调整，并仍然在不断的改进中。
 
 你可以通过提交Issue或是发送E-mail[minskychen@gmail.com](mailto:minskychen@gmail.com)与我们取得联系，参与产品的设计、开发过程。该文档会持续更新，而我也希望这个项目本身能够为人们带来便捷。如有勘误欢迎指正，[点此](https://github.com/lynnfi/hippou/issues)提问。
@@ -17,7 +21,7 @@ Let's [READ](SUMMARY.md)!
 
 选择下面入口之一：
 
-* <https://github.com/lynnfi/hippou> 的 [SUMMARY.md](SUMMARY.md)（源码）
+* <https://github.com/lynnfi/hippou> （本书的源码）
 * <http://test.hippou.cc> （同步更新，河马图书馆官网）
 
 ### Issue 意见、建议
