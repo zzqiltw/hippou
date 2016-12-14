@@ -9,7 +9,9 @@ Let's [READ](SUMMARY.md)!
  
 该项目作为一个协同项目，参与者大多是利用业余时间进行开发协作，从最初的想法到现在的项目正式启动，通过自我驱动并全力以赴的推动项目进展，产品本身的设计也经历了多次调整，并仍然在不断的改进中。
 
-我们也十分欢迎你能够加入我们，不论你是UI设计师、产品经理还是前端工程师、后端工程师、IOS、Android工程师，你可以通过提交Issue或是发送E-mail[minskychen@gmail.com](mailto:minskychen@gmail.com)与我们取得联系，参与产品的设计、开发过程。该文档会持续更新，而我也希望这个项目本身能够为人们带来便捷。如有勘误欢迎指正，[点此](https://github.com/lynnfi/hippou/issues)提问。如有兴趣，也可以参与到本翻译工作中来:)
+你可以通过提交Issue或是发送E-mail[minskychen@gmail.com](mailto:minskychen@gmail.com)与我们取得联系，参与产品的设计、开发过程。该文档会持续更新，而我也希望这个项目本身能够为人们带来便捷。如有勘误欢迎指正，[点此](https://github.com/lynnfi/hippou/issues)提问。
+
+不论你是UI设计师、产品经理还是前端工程师、后端工程师、IOS、Android工程师，如有兴趣，我们也十分欢迎你能够加入我们的项目中来。:)
 
 ### Get start 如何开始阅读
 
@@ -27,5 +29,4 @@ Let's [READ](SUMMARY.md)!
 * 郑志勤: [？.com](http://.com)
 * 贺奇: [？(at)gmail.com](mailto:1@gmail.com)
 * 李奕旋: [liyixuan](http://weibo.com/)
-* Twitter: [](https://twitter.com/)
-* Github : [](https://github.com/)
+* Twitter: [test](https://twitter.com/)
