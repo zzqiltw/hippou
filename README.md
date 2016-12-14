@@ -30,7 +30,8 @@ Hippou Library 官方地址：[河马图书馆] (http://hippou.cc)
 
 ### 鸣谢:
 从想法到实践是一条艰辛的路程，而幸运的是，在前进的过程中我们得到了很多小伙伴的帮助，在此向他们表示感谢。
-* 郑志勤: [？.com](http://.com)
+
+* 郑志勤: [mailto:zzqiltw@gmail.com](https://github.com/zzqiltw)
 * 贺奇: [？(at)gmail.com](mailto:1@gmail.com)
 * 李奕旋: [liyixuan](http://weibo.com/)
 * Twitter: [test](https://twitter.com/)
